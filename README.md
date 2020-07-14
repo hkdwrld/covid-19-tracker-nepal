@@ -1,16 +1,7 @@
-# covd
+New app for tracking covid-19 data for nepal.
+It shows the live data from around the world and with in each proviences from Nepal.
+Interactive demonstraton of data through graphs and piecharts.
 
-A new Flutter application.
+![Screenshots](/images/sc1.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshots](/images/sc2.png)
